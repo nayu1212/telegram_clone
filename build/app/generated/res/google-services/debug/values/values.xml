@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">765830287863-g70b2i82id2l03r4k585000je7ti2ja6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">765830287863</string>
+    <string name="google_api_key" translatable="false">AIzaSyBSWIKcRkLfQjjRW96rfsJ3Sq-JaAwCQ0E</string>
+    <string name="google_app_id" translatable="false">1:765830287863:android:bfec47e3bc96a61c839ef2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBSWIKcRkLfQjjRW96rfsJ3Sq-JaAwCQ0E</string>
+    <string name="google_storage_bucket" translatable="false">telegramclone-6ec73.appspot.com</string>
+    <string name="project_id" translatable="false">telegramclone-6ec73</string>
+</resources>
